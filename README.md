@@ -5,7 +5,7 @@ If you use Kannada-MNIST in a peer reviewed paper, we would appreciate referenci
 **Kannada-MNIST: A new handwritten digits dataset 
                    for the Kannada language. Vinay Uday Prabhu. [Zenodo project link](https://zenodo.org/record/3359691#.XUZAduhKiUm)**. 
 
-Biblatex entry:
+Bibtex entry:
 ```latex
 @unpublished{vinay_uday_prabhu_2019_3359691,
   author       = {Vinay Uday Prabhu},
