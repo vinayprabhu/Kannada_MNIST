@@ -7,15 +7,13 @@ If you use Kannada-MNIST in a peer reviewed paper, we would appreciate referenci
 
 Bibtex entry:
 ```latex
-@unpublished{vinay_uday_prabhu_2019_3359691,
-  author       = {Vinay Uday Prabhu},
-  title        = {{Kannada-MNIST: A new handwritten digits dataset 
-                   for the Kannada language}},
-  month        = aug,
-  year         = 2019,
-  doi          = {10.5281/zenodo.3359691},
-  url          = {https://doi.org/10.5281/zenodo.3359691}
+@article{prabhu2019kannada,
+  title={Kannada-MNIST: A new handwritten digits dataset for the Kannada language},
+  author={Prabhu, Vinay Uday},
+  journal={arXiv preprint arXiv:1908.01242},
+  year={2019}
 }
+
 ```
 I created this dataset with the help of many wonderful volunteers:
 
