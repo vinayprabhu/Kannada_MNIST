@@ -23,7 +23,7 @@ I created this dataset with the help of many wonderful volunteers:
 
 The Kannada-MNIST dataset was created an a drop-in substitute for the standard MNIST dataset. An example grid of images contributed by the volunteers look like:
 
-<img src="example.png" width="400" height="400" />
+<img src="example.png" width="480" height="360" />
 
 
 
@@ -34,11 +34,11 @@ The Kannada-MNIST dataset was created an a drop-in substitute for the standard M
 
 ## Kannada-MNIST v/s MNIST comparisons
 ### 1: UMAP-plots
-<img src="figures/umap_both.png" width="855" height="405" />
+<img src="figures/umap_both.png" width="825" height="355" />
 
 ### 2: Explained variance by PCA dimensions
 
-<img src="figures/pca_expvar_both.png" width="555" height="555" />
+<img src="figures/pca_expvar_both.png" width="555" height="450" />
 
 ### 3: Pixel intensities
 
