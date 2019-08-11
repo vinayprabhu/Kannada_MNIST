@@ -3,7 +3,7 @@
 If you use Kannada-MNIST in a peer reviewed paper, we would appreciate referencing it as:
 
 **Kannada-MNIST: A new handwritten digits dataset 
-                   for the Kannada language. Vinay Uday Prabhu. [Zenodo project link](https://zenodo.org/record/3359691#.XUZAduhKiUm)**. 
+                   for the Kannada language. Vinay Uday Prabhu. **. 
 
 Bibtex entry:
 ```latex
@@ -29,6 +29,7 @@ The Kannada-MNIST dataset was created an a drop-in substitute for the standard M
 [Link to the Kaggle repo](https://www.kaggle.com/higgstachyon/kannada-mnist "Kaggle dataset-link")
 
 [Link to the Zenodo repo](https://zenodo.org/record/3359691#.XUYvLuhKiUm "Zenodo datasets link")
+
 
 ## Kannada-MNIST v/s MNIST comparisons
 ### 1: UMAP-plots
