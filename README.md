@@ -2,8 +2,7 @@
 ## Citing Kannada-MNIST
 If you use Kannada-MNIST in a peer reviewed paper, we would appreciate referencing it as:
 
-**Kannada-MNIST: A new handwritten digits dataset 
-                   for the Kannada language. Vinay Uday Prabhu. **. 
+**Prabhu, Vinay Uday. "Kannada-MNIST: A new handwritten digits dataset for the Kannada language." arXiv preprint arXiv:1908.01242 (2019).**. 
 
 Bibtex entry:
 ```latex
