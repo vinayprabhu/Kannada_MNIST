@@ -1,4 +1,26 @@
 # Kannada_MNIST
+
+## UPDATE!
+
+This dataset was used in a [Kaggle Playground Code Competition](https://www.kaggle.com/c/Kannada-MNIST/overview)
+that ended in December-2019.
+
+It attracted entries from a staggering 1214 teams around the world and seen in the table below is the [final public leaderboard](https://www.kaggle.com/c/Kannada-MNIST/leaderboard)
+<img src="kaggle_leaderboard.png" width="480" height="360" />
+
+The community also generated an incredible set of resources in the form of tutorials and [notebooks](https://www.kaggle.com/c/Kannada-MNIST/notebooks), of which, the ones I’d like to highlight are: 
+
+
+- [Melissa Rajaram’s model-ensembling-and-transfer-learning](https://www.kaggle.com/melissarajaram/model-ensembling-and-transfer-learning)
+- [Martin Gorner’s TF-data-augmentation](https://www.kaggle.com/martingorner/kannada-martin-keras-with-tf-data-augmentation)
+- [Adrian Zinovei’s Tableau visualization](https://public.tableau.com/profile/adrian.zinovei#!/vizhome/KaggleKannadaMNIST/KannadaKaggle)
+
+<img src="KannadaMNIST_tableau.gif" width="580" height="360" />
+
+- [Igor Tokarev’s Keras tuner](https://www.kaggle.com/polyzer/hyperparameters-tuning-with-kerastuner-hyperresnet)
+
+- [Parul Pandey’s t-SNE visualization](https://www.kaggle.com/parulpandey/visualizing-kannada-mnist-with-t-sne)
+
 ## Citing Kannada-MNIST
 If you use Kannada-MNIST in a peer reviewed paper, we would appreciate referencing it as:
 
@@ -41,6 +63,5 @@ The Kannada-MNIST dataset was created an a drop-in substitute for the standard M
 ### 3: Pixel intensities
 
 <img src="figures/pix-int_both.png" width="755" height="305" />
-
 
 
