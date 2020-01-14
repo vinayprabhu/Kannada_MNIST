@@ -6,6 +6,9 @@ This dataset was used in a [Kaggle Playground Code Competition](https://www.kagg
 that ended in December-2019.
 
 It attracted entries from a staggering 1214 teams around the world and seen in the table below is the [final public leaderboard](https://www.kaggle.com/c/Kannada-MNIST/leaderboard)
+
+
+
 <img src="kaggle_leaderboard.png" width="480" height="360" />
 
 The community also generated an incredible set of resources in the form of tutorials and [notebooks](https://www.kaggle.com/c/Kannada-MNIST/notebooks), of which, the ones I’d like to highlight are: 
