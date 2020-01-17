@@ -9,7 +9,7 @@ It attracted entries from a staggering 1214 teams around the world and seen in t
 
 
 
-<img src="kaggle_leaderboard.png" width="480" height="360" />
+<img src="kaggle_leaderboard.png" width="600" height="360" />
 
 The community also generated an incredible set of resources in the form of tutorials and [notebooks](https://www.kaggle.com/c/Kannada-MNIST/notebooks), of which, the ones I’d like to highlight are: 
 
